@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Click-Counter-on-React/static/css/main.ebec803f.css",
-    "main.js": "/Click-Counter-on-React/static/js/main.f1131adc.js",
+    "main.css": "/Click-Counter-on-React/static/css/main.2ad47055.css",
+    "main.js": "/Click-Counter-on-React/static/js/main.c934d835.js",
     "index.html": "/Click-Counter-on-React/index.html",
-    "main.ebec803f.css.map": "/Click-Counter-on-React/static/css/main.ebec803f.css.map",
-    "main.f1131adc.js.map": "/Click-Counter-on-React/static/js/main.f1131adc.js.map"
+    "main.2ad47055.css.map": "/Click-Counter-on-React/static/css/main.2ad47055.css.map",
+    "main.c934d835.js.map": "/Click-Counter-on-React/static/js/main.c934d835.js.map"
   },
   "entrypoints": [
-    "static/css/main.ebec803f.css",
-    "static/js/main.f1131adc.js"
+    "static/css/main.2ad47055.css",
+    "static/js/main.c934d835.js"
   ]
 }
