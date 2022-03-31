@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Click-Counter-on-React/static/css/main.073c9b0a.css",
+    "main.js": "/Click-Counter-on-React/static/js/main.1b3c4662.js",
+    "index.html": "/Click-Counter-on-React/index.html",
+    "main.073c9b0a.css.map": "/Click-Counter-on-React/static/css/main.073c9b0a.css.map",
+    "main.1b3c4662.js.map": "/Click-Counter-on-React/static/js/main.1b3c4662.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1b3c4662.js"
+  ]
+}
