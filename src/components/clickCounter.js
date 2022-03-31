@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "../App.css";
-import Timer from "./Timer";
 
 const ClickCounter = () => {
   const [contadorValue, updateContador] = useState(0);
