@@ -5,7 +5,7 @@
 }
 html,
 body {
-  background-color: #1b1b32;
+  background-color: #0f0f1a;
 }
 .App {
   display: flex;
@@ -20,12 +20,13 @@ body {
   margin-bottom: 50px;
   border-radius: 10px;
   padding: 1rem;
-  min-height: 170px;
-  max-width: 250px;
+	text-align: center;
+	font-size: 30px;
+  min-height: 270px;
+  min-width: 500px;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  text-align: center;
 }
 
 .App-link {
@@ -46,15 +47,22 @@ body {
   justify-content: center;
 }
 
-button {
-  width: 150px;
-  height: 20px;
-  font-size: 15px;
+.button {
+  width: auto;
+  height: auto;
+  font-size: 20px;
   font-family: Roboto, sans-serif;
   font-weight: bold;
   color: rgb(0, 0, 0);
-  border: 2px solid white;
+  border: 2px solid black;
   border-radius: 15px;
   margin: 5px;
   cursor: pointer;
+	background-color: #8e36e0;
+}
+.reset {
+	background-color: #61dafb;
+}
+button:hover{
+ background-color: #3e723e;
 }

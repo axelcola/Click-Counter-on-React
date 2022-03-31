@@ -13,12 +13,12 @@ const ClickCounter = () => {
 
   return (
     <div className="click-counter">
-      <p>El valor de contador es:</p>
-      <h1 className="clock">{contadorValue}</h1>
+      <p>How many clicks you can do?</p>
+      <h1>{contadorValue}</h1>
       <button className="button" onClick={increase}>
         Increase
       </button>
-      <button className="button" onClick={reset}>
+      <button className="button reset" onClick={reset}>
         Reset
       </button>
     </div>
