@@ -1,13 +1,12 @@
+import ClickCounter from "./components/clickCounter";
 import "./App.css";
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>hola</h1>
-      </header>
+      <ClickCounter className="card" />
     </div>
   );
-}
+};
 
 export default App;
