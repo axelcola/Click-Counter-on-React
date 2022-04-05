@@ -5,7 +5,7 @@ Created with ReactJS
 
 This is one of my first litle Apps created with ReactJS
 
-Check out the final result [here](https://axelcola.github.io/StickyNotesProyectJs/).
+Check out the final result [here](https://axelcola.github.io/Click-Counter-on-React/).
 
 
 Funcionalities: 
